@@ -1,0 +1,1 @@
+-- Create db called 'soft_uni' and execute all data.sql queries in it.
